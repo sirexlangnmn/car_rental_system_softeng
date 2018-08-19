@@ -1,0 +1,187 @@
+/* Themify Customize Styling */
+#site-logo img {		width: 250px; 
+}
+#site-logo a {		width: 250px; 
+}
+#site-description {	display: none; 
+}
+
+/* Themify Custom CSS */
+/* DESKTOP */ /* cars */
+.car-01 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-01-desktop.jpg"); background-repeat: no-repeat; }
+.car-02 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-02-desktop.jpg"); background-repeat: no-repeat; }
+.car-03 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-03-desktop.jpg"); background-repeat: no-repeat; }
+.car-04 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-04-desktop.jpg"); background-repeat: no-repeat; }
+.car-05 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-05-desktop.html"); background-repeat: no-repeat; }
+.car-06 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-06-desktop.html"); background-repeat: no-repeat; }
+.car-07 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-07-desktop.html"); background-repeat: no-repeat; }
+.car-08 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-08-desktop.html"); background-repeat: no-repeat; }
+.car-09 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-09-desktop.html"); background-repeat: no-repeat; }
+.car-10 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-10-desktop.html"); background-repeat: no-repeat; }
+
+/* DESKTOP */ /* vans */
+.van-01 {width: 712px; height: 188px; background-image: url("../../car-rates-images/desktop/van-01-desktop.jpg"); background-repeat: no-repeat; }
+.van-02 {width: 712px; height: 188px; background-image: url("../../car-rates-images/desktop/van-02-desktop.jpg"); background-repeat: no-repeat; }
+.van-03 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-03-desktop.jpg"); background-repeat: no-repeat; }
+.van-04 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-04-desktop.jpg"); background-repeat: no-repeat; }
+.van-05 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-05-desktop.jpg"); background-repeat: no-repeat; }
+.van-06 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-06-desktop.html"); background-repeat: no-repeat; }
+.van-07 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-07-desktop.html"); background-repeat: no-repeat; }
+.van-08 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-08-desktop.html"); background-repeat: no-repeat; }
+.van-09 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-09-desktop.html"); background-repeat: no-repeat; }
+.van-10 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-10-desktop.html"); background-repeat: no-repeat; }
+
+/* DESKTOP */ /* bridal cars */
+.bridal-01 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-01-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-02 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-03 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-04 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-05 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-06 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-07 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-08 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-09 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+.bridal-10 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; }
+
+.themify_builder .text-8-1-0-1.module-text {text-align: left!important;}
+
+/* - MEDIA QUERIES FOR CAR RATES - */
+@media all and (min-width: 791px) {
+/* DESKTOP */ /* cars */
+.car-01 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-01-desktop.jpg"); background-repeat: no-repeat; }
+.car-02 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-02-desktop.jpg"); background-repeat: no-repeat; }
+.car-03 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-03-desktop.jpg"); background-repeat: no-repeat; }
+.car-04 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-04-desktop.jpg"); background-repeat: no-repeat; }
+.car-05 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-05-desktop.html"); background-repeat: no-repeat; }
+.car-06 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-06-desktop.html"); background-repeat: no-repeat; }
+.car-07 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-07-desktop.html"); background-repeat: no-repeat; }
+.car-08 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-08-desktop.html"); background-repeat: no-repeat; }
+.car-09 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-09-desktop.html"); background-repeat: no-repeat; }
+.car-10 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/car-10-desktop.html"); background-repeat: no-repeat; }
+
+/* DESKTOP */ /* vans */
+.van-01 {width: 712px; height: 188px; background-image: url("../../car-rates-images/desktop/van-01-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-02 {width: 712px; height: 188px; background-image: url("../../car-rates-images/desktop/van-02-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-03 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-03-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-04 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-04-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-05 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-05-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-06 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-06-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-07 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-07-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-08 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-08-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-09 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-09-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-10 {width: 712px; height: 240px; background-image: url("../../car-rates-images/desktop/van-10-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+/* DESKTOP */ /* bridal cars */
+.bridal-01 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-01-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-02 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-02-desktop.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-03 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-03-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-04 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-04-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-05 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-05-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-06 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-06-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-07 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-07-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-08 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-08-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-09 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-09-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-10 {width: 712px; height: 187px; background-image: url("../../car-rates-images/desktop/bridal-10-desktop.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+}
+
+
+@media all and (max-width: 790px) {
+/* TABLET */ /* cars */
+.car-01 {width: 413px; height: 452px; background-image: url("../../car-rates-images/tablet/car-01-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-02 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-02-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-03 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-03-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-04 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-05 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-06 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-07 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-08 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-09 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-10 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/car-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+/* TABLET */ /* vans */
+.van-01 {width: 412px; height: 286px; background-image: url("../../car-rates-images/tablet/van-01-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-02 {width: 412px; height: 286px; background-image: url("../../car-rates-images/tablet/van-02-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-03 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-03-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-04 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-04-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-05 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-06 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-07 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-08 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-09 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-10 {width: 413px; height: 450px; background-image: url("../../car-rates-images/tablet/van-05-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+/* TABLET */ /* bridal cars */
+.bridal-01 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-01-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-02 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-02-tablet.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-03 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-03-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-04 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-04-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-05 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-05-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-06 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-06-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-07 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-07-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-08 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-08-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-09 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-09-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-10 {width: 412px; height: 287px; background-image: url("../../car-rates-images/tablet/bridal-10-tablet.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+.header-widget {
+        position: static!important;
+}
+}
+
+@media all and (max-width: 420px) {
+/* PHONE */ /* cars */
+.car-01 {width: 300px; height: 328px; background-image: url("../../car-rates-images/phone/car-01-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-02 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-03 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-03-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-04 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-04-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-05 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-05-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-06 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-07 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-07-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-08 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-08-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-09 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-09-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.car-10 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/car-10-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+/* PHONE */ /* vans */
+.van-01 {width: 300px; height: 208px; background-image: url("../../car-rates-images/phone/van-01-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-02 {width: 300px; height: 208px; background-image: url("../../car-rates-images/phone/van-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-03 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-03-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-04 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-04-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-05 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-05-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-06 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-07 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-08 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-09 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.van-10 {width: 300px; height: 327px; background-image: url("../../car-rates-images/phone/van-06-phone.html"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+/* PHONE */ /* bridal cars */
+.bridal-01 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-01-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-02 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-03 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-04 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-05 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-06 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-07 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-08 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-09 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+.bridal-10 {width: 300px; height: 209px; background-image: url("../../car-rates-images/phone/bridal-02-phone.jpg"); background-repeat: no-repeat; background-position: center center; margin: auto; }
+
+.themify_builder .text-8-1-0-1.module-text {text-align: center!important;}
+
+.header-widget {
+        position: static!important;
+}
+}@media screen and (max-width: 976px) { /* Themify Customize Styling */
+#site-logo img {		width: 250px; 
+}
+#site-logo a {		width: 250px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo img {		width: 250px; 
+}
+#site-logo a {		width: 250px; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+#site-logo img {		width: 250px; 
+}
+#site-logo a {		width: 250px; 
+}
+ }

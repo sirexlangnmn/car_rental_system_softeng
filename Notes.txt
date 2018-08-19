@@ -1,0 +1,31 @@
+crs d2 version / August 19, 2017
+
+rentaldetail.php == balak ko sana pagsamahin ang data ni Client, Vehicle, at Driver. Pero naisip ko na hindi pwede.
+binura ko si order.php , balak ko sana ipalit si rentaldetail.php
+
+
+
+UrvanZone Car Rental
+
+
+Need to do:
+
+1. Inventroy and record management of Drivers and Vehicle
+
+2. Additional charges on exceeding duration and damage on property
+
+3. Point of sale and inventory in other products and services
+
+4. SMS Notification
+
+5. Email server
+
+6. Database Security and anti-PHP injector
+
+7. Rating of Vehicle
+
+8. Testimonials
+
+9. Password Strenghth
+
+10. Registration for loyal customer who want to avail loyalty discount and promo 

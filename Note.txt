@@ -1,0 +1,178 @@
+details.php           
+
+
+
+          <form class="form-horizontal" role="form" action="details_save.php" method="post">
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Purpose for Renting</label>
+                                  <div class="col-lg-5">
+                                    <textarea class="form-control" name="venue" rows="5" placeholder="Complete Address of venue" required></textarea>
+                                  </div>
+                                </div>    
+
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Date of claiming</label>
+                                  <div class="col-lg-5">
+                                    <input type="text" id="datepicker" class="form-control" name="date" required>
+                                    <span class = "label label-warning">Check if date is available</span>
+                                  </div>
+                                </div>
+
+
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Time of claiming</label>
+                                  <div class="col-lg-5">
+                                    <div id="datetimepicker" class="input-append input-group dtpicker">
+                                     
+									  <input data-format="hh:mm A" class="form-control" type="time" name="time" id="datepicker" required="true">
+                                      <span class="input-group-addon">
+                                        <i data-time-icon="fa fa-clock-o" data-date-icon="fa fa-calendar" class="fa fa-clock-o"></i>
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <!-- Aalisin ito -->
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Suggested car color</label>
+                                  <div class="col-lg-5">
+                                    <input type="text" class="form-control" placeholder="Write car color" name="motif">
+                                  </div>
+                                </div>
+                                <!-- Aalisin ito -->
+
+
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Destination</label>
+                                  <div class="col-lg-5">
+                                    <select class="form-control select2 " id="exampleSelect1" name="ocassion" placeholder="Select occasion" required>
+                                      <option>Quezon City</option>
+                                      <option>Bulacan</option>
+                                      <option>Manila</option>
+                                      <option>Valenzuela</option>
+                                      <option>Makati</option>
+                                      <option>Laguna</option>
+                                      <option>Cavite</option>
+                                      <option>Others</option>
+                                    </select>
+                                  </div>
+                                </div>  
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">No. of Passenger</label>
+                                  <div class="col-lg-5">
+                                    <input type="number" class="form-control" placeholder="No. of Pax" name="pax">
+                                  </div>
+                                </div> 
+                                <div class="form-group">
+                                  <label class="col-lg-2 control-label">Type</label>
+                                  <div class="col-lg-2">
+                                    <input type="radio" class="form-radio" name="type" value="buffet"> Personal
+                                  </div>
+                                  <div class="col-lg-2">
+                                    <input type="radio" class="form-radio" name="type" value="plated"> Cargo
+                                  </div>
+                                </div>  
+                               <div class="form-group">
+
+
+
+facilities_modal.php
+
+        <div class="padd">
+					<p>1. Car rental is within the area of Luzon only.</p>
+					<br />
+
+					<p>2. Additional 10% payment on reservation outside Quezon City.</p>
+					<br />
+
+					<p>3. We need atleast two(2) valid ID's for identity confirmation.</p>
+					<br />
+
+					<p>4. Costumer must pay 50% of the actual price as an advance payment 3 days after confirmation, if the costumer failed to pay the said advance payment reservation will be cancelled.</p>
+					<br />
+
+					<p>5. The management will call the costumer about the payment details.</p>
+					<br />
+
+					<p>6. If the costumer wants to cancel its confirmed reservation due to personal reason, the management will get 25% from the advance payment he/she made as charge for the damages.</p>
+					<br />
+
+					<p>7. Another 50 percent should be paid before to take the reserve car.</p>
+					<br />
+
+					<p>8. Terms of payments will be via padala center cebuana or palawan center or personal payments.</p>
+					<br />
+
+					<p>9. You can hire our driver with additional charges. For your benefits we choose driver that familiar on your desired location to visit.</p>
+					<br />
+
+					<p>10. The customer will shoulder cost on what damage they have done to the property.</p>
+				</div>
+
+
+
+
+
+
+
+summary.php
+                      <tr>
+                        <td>RCode: </td>
+                        <td><?php echo $rcode;?></td>
+                        <td>Pick Up Date: </td>
+                        <td><?php echo date("M d, Y",strtotime($date));?></td>
+                      </tr>
+                      <tr>  
+                        <td>Name: </td>
+                        <td><?php echo $last." ,".$first;?></td>
+                        <td>Pick Up Time: </td>
+                        <td><?php echo date("h:i a",strtotime($time));?></td>
+                      </tr>
+                      <tr>
+                        <td>Contact #: </td>
+                        <td><?php echo $contact;?></td>
+                        <td>Destination: </td>
+                        <td><?php echo $venue;?></td>
+                      </tr> 
+                      <tr>
+                        <td>Address: </td>
+                        <td><?php echo $address;?></td>
+                        <td>Suggest Car Color: </td>
+                        <td><?php echo $motif;?></td>
+
+                      </tr>   
+                      <tr>  
+                        <td></td>
+                        <td></td>
+                        <td>Purpose of Renting: </td>
+                        <td><?php echo $ocassion;?></td>
+                        
+                      </tr>  
+                      <tr>  
+                        <td></td>
+                        <td></td>
+                        <td>Type: </td>
+                        <td><?php echo $type;?></td>
+                        
+                      </tr>  
+                      <tr>  
+                        <td></td>
+                        <td></td>
+                        <td>No. of Day/s: </td>
+                        <td><?php echo $row['pax'];?></td>
+                        
+                      </tr>  
+
+                      <tr>  
+                        <td></td>
+                        <td></td>
+                        <td>Payable: </td>
+                        <td>P <?php echo number_format($payable,2);?></td>
+                      </tr> 
+                      <tr>  
+                        <td></td>
+                        <td></td>
+                        <td>Mode of Payment: </td>
+                        <td><?php echo $row['modeofpayment'];?></td>
+                      </tr> 
+                      
